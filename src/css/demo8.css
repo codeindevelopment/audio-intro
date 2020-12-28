@@ -1,0 +1,23 @@
+body {
+  font-family: "dana";
+  background-image: url(../img/8.jpg);
+  font-weight: 500;
+  font-size: 0.85rem;
+  --color-link: #d3e5fc;
+}
+
+.screen {
+  text-transform: uppercase;
+}
+
+.content__title {
+  font-size: 8vw;
+  font-weight: 900;
+}
+
+.content__credits {
+  font-family: "dana";
+
+  font-size: 1.15rem;
+  max-width: 42rem;
+}

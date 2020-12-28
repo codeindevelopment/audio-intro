@@ -1,0 +1,12 @@
+
+
+body {
+    font-family: 'dana';
+    background-image: url(../img/1.jpg);
+}
+
+.content__credits {
+    font-family: 'dana';
+    letter-spacing: 1px;
+    font-size: 1.15rem;
+}

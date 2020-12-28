@@ -1,0 +1,21 @@
+
+
+body {
+    font-family: 'dana';
+    background-image: url(../img/4.jpg);
+}
+
+
+.content__title {
+    font-size: 13vw;
+    font-family: 'dana';
+}
+
+.content__credits,
+.intro {
+    font-family: 'dana';
+}
+
+.content__credits {
+    font-size: 1.25rem;
+}
